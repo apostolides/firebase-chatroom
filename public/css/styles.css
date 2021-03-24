@@ -1,0 +1,50 @@
+.message{
+    color: rgb(6, 158, 27);
+}
+
+.chat-table{
+    border: 1px solid;
+    border-color: #1f2124;
+    height: 90vh;
+}
+
+.sign-in-button{
+    color: rgb(6, 158, 27);
+}
+
+.sign-out-button{
+    color: rgb(6, 158, 27);
+}
+
+.hidden{
+    display: none;
+}
+
+.scrollable{
+    overflow-y: scroll !important;
+    height: 85vh;
+    color: rgb(6, 158, 27);
+    scrollbar-color: #2f3439 #2e32356e;;
+}
+
+#user-input{
+    background-color: rgba(117, 114, 114, 0.23);
+    border: none;
+    color: rgb(6, 158, 27);
+}
+
+td{
+    border: 0 !important;
+}
+
+body{
+    background-color: #212529;
+    /* overflow: hidden; */
+    font-family: 'Courier New', monospace;
+}
+
+input{
+    margin-left: 1vw;
+    width: 80vw;
+    height: 3vh;
+}
